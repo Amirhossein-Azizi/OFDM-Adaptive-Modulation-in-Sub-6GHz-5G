@@ -19,7 +19,7 @@ rms_ds=20;%20ns rms delay spread of the channel
 
 time_unit=1000/40;
 
-delay_cn=ceil(delay_c*rms_ds/time_unit);%normailized delay of multipath components
+delay_cn=ceil(delay_c*rms_ds/time_unit);%normalized delay of multipath components
 
 N_path=max(delay_cn+1);
 
