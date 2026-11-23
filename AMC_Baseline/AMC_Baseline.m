@@ -1,5 +1,5 @@
 %Adaptive Modulation and Coding
-%Baeline State
+%Baseline 
 
 clc
 %clear
